@@ -1,0 +1,7 @@
+body  {
+    width: 80%;
+    max-width: 760px;
+    margin: auto;
+    background: #d3cdcd;
+    color: #333333;
+}
