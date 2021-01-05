@@ -1,3 +1,3 @@
 # Josef-Website
-(https://cormacixd.github.io/Josef-Website/JMB.html)
+https://cormacixd.github.io/JMB-Website-Essay/JMB.html
 
